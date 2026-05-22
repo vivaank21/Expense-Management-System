@@ -162,6 +162,16 @@ connectivity/
 
 ---
 
+---
+## 📝 Documentation
+* DataFlowDiagram
+* Entity-Relational Diagram
+* Data Dictionary
+* Test-Case
+
+  In Documentation Folder...
+---
+
 ## 🎯 Future Improvements
 
 * User Authentication
