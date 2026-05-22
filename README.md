@@ -1,4 +1,3 @@
-````md
 # 💰 Expense Management System
 
 A modern and fully functional **Expense Management System** developed using **C# .NET Windows Forms** and **SQL Server**.  
